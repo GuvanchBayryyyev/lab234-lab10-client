@@ -8,7 +8,10 @@
     "types": [
       "jasmine",
       "node"
-    ]
+    ],
+    "lib":[
+      "esnext.asynciterable"
+      ]
   },
   "files": [
     "test.ts"
